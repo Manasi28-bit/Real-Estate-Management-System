@@ -19,4 +19,3 @@ A beginner-friendly **Real Estate Management System** built using **Python, Tkin
 ## 📊 Visualization
 - Flats availability shown using Pie Chart
 
-## 📂 Project Structure
